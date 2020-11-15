@@ -1,0 +1,3 @@
+[submodule "lib/dreamtools"]
+	path = lib/dreamtools
+	url = https://github.com/dreamtools/dreamtools.git
