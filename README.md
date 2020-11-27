@@ -27,9 +27,9 @@ You need to install the following packages:
 The notebook is called Experimenting_with_genie3 and is located in the GENIE3/script/notebook/ folder
 The report is directly available on GENIE3/ folder
 
-<div class="text-red">
-  Warning
-</div>
+
+  **Warning**
+
  </span> Multiple cells generate results and write files to compute the plots. These files are already generated, and launching these, is not useful and very time consuming.
 
 ## Structure of the repository:
