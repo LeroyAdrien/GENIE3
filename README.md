@@ -12,7 +12,7 @@ PLoS ONE, 5(9):e12776, 2019.
 ### Use the code to generate the results:
 
 
-1. Prerequisites:
+#### Prerequisites:
 
 You need to install the following packages:
 
@@ -22,12 +22,15 @@ You need to install the following packages:
 * plotly
 * grenadine
 
-2. Folder structure:
+#### Folder structure:
 
 The notebook is called Experimenting_with_genie3 and is located in the GENIE3/script/notebook/ folder
 The report is directly available on GENIE3/ folder
 
-<span style="color: red"> Warning : </span> Multiple cells generate results and write files to compute the plots. These files are already generated, and launching these, is not useful and very time consuming.
+<div class="text-red">
+  Warning
+</div>
+ </span> Multiple cells generate results and write files to compute the plots. These files are already generated, and launching these, is not useful and very time consuming.
 
 ## Structure of the repository:
 
